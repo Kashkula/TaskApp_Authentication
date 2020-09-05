@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TaskApp_orig</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="add">Add</string>
+    <string name="tasks">Tasks</string>
+    <string name="FIO">Азиз Курманбекович</string>
+        
+    <string name="exit">Выход</string>
+        
+    <string name="remove_data">Удалить данные?</string>
+        
+    <string name="yes">Да</string>
+        
+    <string name="no">Нет</string>
+        
+    <string name="cancel">Отмена</string>
+        
+    <string name="saved">Сохранено</string>
+    <string name="skip">skip</string>
+    <string name="sort">Сортировка по дате</string>
+    <string name="sortChar">Сортировка по алфавиту</string>
+    <string name="update">Очистить список</string>
+</resources>
